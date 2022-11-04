@@ -4,7 +4,7 @@ public class diamond {
 	public static void main(String[] args) {
 		int space=4;
 		int star=1;
-			//for(int i=1;i<=9;i++) {
+			for(int i=1;i<=9;i++) {
 				for(int j=1;j<=space;j++) {
 					System.out.print(" ");
 				}
